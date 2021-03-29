@@ -3,9 +3,10 @@
 
 <h2>Useful Links: </h2>
 <ul>
-<li> <a href="https://youtu.be/U-MuVF5-3vI">Project Overview</a> </li>
-<li> <a href="https://youtu.be/a2Z8ZESduxo">Demo</a> </li>
-<li> <a href="https://github.com/tingyiwu1">All Video Credits</a> </li>
+  <li> <a href="https://docs.google.com/presentation/d/1NscqhQe_gG6Caft23iyBZQf7ccWLX1mf_a9cWke3yh8/edit?usp=sharing">Project Slides</a></li>
+  <li> <a href="https://youtu.be/U-MuVF5-3vI">Project Overview</a> </li>
+  <li> <a href="https://youtu.be/a2Z8ZESduxo">Demo</a> </li>
+  <li> <a href="https://github.com/tingyiwu1">All Video Credits</a> </li>
 </ul>
 
 <h2>Abstract: </h2>
