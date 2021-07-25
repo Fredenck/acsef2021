@@ -1,4 +1,3 @@
-# yeet
 <h1>Alameda County Science and Engineering Fair 2021 -- Qualified for California Science and Engineering Far</h1>
 
 <h2>Useful Links: </h2>
