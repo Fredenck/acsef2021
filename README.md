@@ -1,5 +1,8 @@
 <h1>Alameda County Science and Engineering Fair 2021 -- Qualified for California Science and Engineering Far</h1>
 
+<h2>UPDATE: WE WON FIRST AND QUALIFIED TO PRESENT AT THE STATE FAIR</h2>
+
+
 <h2>Useful Links: </h2>
 <ul>
   <li> <a href="https://docs.google.com/presentation/d/1NscqhQe_gG6Caft23iyBZQf7ccWLX1mf_a9cWke3yh8/edit?usp=sharing">Project Slides</a></li>
